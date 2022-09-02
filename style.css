@@ -23,7 +23,7 @@ body {
 #hero {
     background-image: url("galaxy.webp");
     background-size: cover;
-    padding: 20px 0 185px 0;
+    padding: 20px 0 400px 0;
 }
 #title {
     font-size: 50px;
